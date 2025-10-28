@@ -135,8 +135,8 @@ a:hover {
 }
 
 .section-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 b,
@@ -290,11 +290,14 @@ strong {
 }
 
 .custom-link {
-	background-color: var(--primary-color);
+	background-color: #EFD9C9;
+    color: var(--secondary-color);
+
 }
 
 .custom-link:hover {
-	background-color: var(--secondary-color);
+	background-color: #d0bcae;
+  color: #ffffff;
 }
 
 
@@ -642,7 +645,7 @@ strong {
   position: relative;
   overflow: hidden;
   margin-bottom: 24px;
-  padding: 40px 40px 240px 40px;
+  padding: 40px;
   transition: all 0.5s;
 }
 
