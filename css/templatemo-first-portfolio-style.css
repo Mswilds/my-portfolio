@@ -290,13 +290,13 @@ strong {
 }
 
 .custom-link {
-	background-color: #EFD9C9;
+	background-color: #D1968C;
     color: var(--secondary-color);
 
 }
 
 .custom-link:hover {
-	background-color: #d0bcae;
+	background-color: #B38077;
   color: #ffffff;
 }
 
@@ -1189,4 +1189,5 @@ strong {
     /* min-width: inherit; */
   }
 }
+
 
