@@ -290,13 +290,13 @@ strong {
 }
 
 .custom-link {
-	background-color: #D1968C;
-    color: #ffffff;
+	background-color: #EFD9C9;
+    color: var(--secondary-color);
 
 }
 
 .custom-link:hover {
-	background-color: #B38077;
+	background-color: #d0bcae;
   color: #ffffff;
 }
 
@@ -528,6 +528,7 @@ strong {
   z-index: 22;
   top: 0;
   width: 100%;
+  max-width: 385px;
   /* min-width: 550px; */
 }
 
@@ -1189,6 +1190,4 @@ strong {
     /* min-width: inherit; */
   }
 }
-
-
 
